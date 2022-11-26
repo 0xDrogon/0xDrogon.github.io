@@ -1,9 +1,8 @@
 # 0xDrogon.github.io
 
-This is the repository for my own personal website.
+Source code for my personal website: [0xdrogon.com](https://0xdrogon.com)
 
-Beware that the website is still in development.
 
-### Credits
+#### Credits
 
 Website design (Dimension) by HTML5 UP ([html5up.net](https://html5up.net) | [@ajlkn](https://github.com/ajlkn/))
